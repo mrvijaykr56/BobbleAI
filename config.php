@@ -18,7 +18,7 @@ $google_client->setClientId('895507595034-9h7g7crpd4qansb2ripp50ed7q2h1v98.apps.
 $google_client->setClientSecret('S32kuq66HAW9xQDjxxs9nWAp');
 
 //Set the OAuth 2.0 Redirect URI
-$google_client->setRedirectUri('http://localhost/bobbleAIapi/inedx.php');
+$google_client->setRedirectUri('https://mrvijaykr56.github.io/BobbleAI/inedx.html');
 
 // to get the email and profile 
 $google_client->addScope('email');
